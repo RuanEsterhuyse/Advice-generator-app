@@ -4,7 +4,7 @@ This is my solution to the [Advice generator app challenge on Frontend Mentor](h
 
 ### Screenshot
 
-![](../src/images/screenshot.png)
+![](./screenshot.png)
 
 ### Built with
 
