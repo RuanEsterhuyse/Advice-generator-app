@@ -3,6 +3,7 @@
   --green: hsl(150, 100%, 66%);
   --light-gray: hsl(217, 19%, 38%);
   --dark-gray: hsl(217, 19%, 24%);
+  --dark-blue: hsl(218, 23%, 16%);
 }
 
 * {
@@ -20,7 +21,7 @@ button {
 }
 
 body {
-  background-color: var(--dark-gray);
+  background-color: var(--dark-blue);
   padding: 1.25rem;
   font-family: "Manrope", sans-serif;
   display: flex;
@@ -32,7 +33,7 @@ body {
 }
 
 .wrapper {
-  background-color: var(--light-gray);
+  background-color: var(--dark-gray);
   padding: 1.25rem 1.25rem 3rem;
   color: #ffffff;
   border-radius: 1.25rem;
@@ -55,7 +56,7 @@ body {
 }
 
 .wrapper picture img {
-  background-color: var(--light-gray);
+  background-color: var(--dark-gray);
   position: relative;
 }
 
@@ -63,7 +64,7 @@ body {
   content: "";
   width: 40%;
   height: 1px;
-  background-color: var(--cyan);
+  background-color: var(--light-gray);
   right: 1.25rem;
   bottom: 3.8rem;
   position: absolute;
@@ -73,9 +74,9 @@ body {
 
 .wrapper picture::after {
   content: "";
-  width: 45%;
+  width: 44%;
   height: 1px;
-  background-color: var(--cyan);
+  background-color: var(--light-gray);
   left: 0;
   bottom: 0.74rem;
   position: relative;
