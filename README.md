@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice-generator-app
 
-This is my solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-O449pvbnVJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/advicegeneratorapp-using-react-4Tg99TumS0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Screenshot
 
